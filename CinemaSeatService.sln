@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaSeatService.Api", "CinemaSeatService.Api\CinemaSeatService.Api.csproj", "{C6C963B6-CAAC-4262-BC00-5FB6C9829658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaSeatService.Tests", "CinemaSeatService.Tests\CinemaSeatService.Tests.csproj", "{42FA133F-5CE8-4ED6-BA8F-95FA39E66E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C963B6-CAAC-4262-BC00-5FB6C9829658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C963B6-CAAC-4262-BC00-5FB6C9829658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C963B6-CAAC-4262-BC00-5FB6C9829658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C963B6-CAAC-4262-BC00-5FB6C9829658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FA133F-5CE8-4ED6-BA8F-95FA39E66E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FA133F-5CE8-4ED6-BA8F-95FA39E66E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FA133F-5CE8-4ED6-BA8F-95FA39E66E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FA133F-5CE8-4ED6-BA8F-95FA39E66E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
